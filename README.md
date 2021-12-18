@@ -1,8 +1,6 @@
 <img src="https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width="100%" height="450px">
 
-# Hi  👋
-
-**Punit katiyar** is a ✨ Full Stack Developer and Freelance Corporate Trainer  ✨ GitHub profile.
+# Hi  👋 **Punit katiyar** is a ✨ Full Stack Developer and Freelance Corporate Trainer  ✨ GitHub profile.
 
 Here are some ideas to get you started:
 
