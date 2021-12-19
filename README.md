@@ -2,8 +2,6 @@
 
 ## Hi  👋  I Am A ✨ Full Stack Developer and Freelance Corporate Trainer  ✨
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on My Unit Book
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
