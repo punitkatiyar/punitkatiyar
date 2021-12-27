@@ -1,4 +1,4 @@
-<img src="https://punitkatiyar.github.io/image/developer-banner.jpg" width="100%" height="400px">
+<img src="https://images.pexels.com/photos/4145355/pexels-photo-4145355.jpeg" width="100%" height="400px">
 
 ## Hi  👋  I Am A ✨ Full Stack Developer and Freelance Corporate Trainer  ✨
 
