@@ -1,4 +1,4 @@
-<img src="https://punitkatiyar.github.io/profile_as_a%20developer.png" width="100%">
+<!-- <img src="https://punitkatiyar.github.io/profile_as_a%20developer.png" width="100%"> -->
 
 ## Hi  👋  I Am A ✨ Full Stack Developer and Freelance Corporate Trainer  ✨
 
