@@ -1,6 +1,8 @@
 <!-- <img src="https://punitkatiyar.github.io/profile_as_a%20developer.png" width="100%"> -->
 
-## Hi  👋  I Am A ✨ Full Stack Developer and Freelance Corporate Trainer  ✨
+<img src="https://www.ducatindia.com/images/logo.png">
+
+## Hi  👋  I Am A ✨ Full Stack Developer And Corporate Trainer  ✨
 
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
@@ -10,5 +12,3 @@
 - 📫 How to reach me: https://www.codewithpunit.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<img src="https://www.ducatindia.com/images/logo.png">
