@@ -4,6 +4,7 @@
 
 # Hi  👋  I Am A ✨ Full Stack Developer And Corporate Trainer  ✨
 
+- 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with ????
