@@ -11,7 +11,6 @@
 - 📫 How to reach me: https://www.withpunit.com
 - 😄 Pronouns: https://punitkatiyar.github.io 
 - ⚡ Fun fact: ...
-
 # 🧑🏽‍💻
 
 <!--<img src="https://punitkatiyar.github.io/profile_as_a%20developer.png" width="100%"> -->
