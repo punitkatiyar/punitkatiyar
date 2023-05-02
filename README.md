@@ -11,6 +11,5 @@
 - 📫 How to reach me: https://www.techunitbook.com
 - 😄 Pronouns: https://punitkatiyar.github.io 
 - ⚡ Master Guide : https://github.com/techunitbook
-# 🧑🏽‍💻
 
-<!--<img src="https://punitkatiyar.github.io/profile_as_a%20developer.png" width="100%"> -->
+<img src="https://punitkatiyar.github.io/profile_as_a%20developer.png" width="100%">
