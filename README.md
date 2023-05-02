@@ -1,7 +1,7 @@
 <!-- 
 <img src="https://www.ducatindia.com/images/logo.png"> -->
 
-# 👋 Full Stack Developer And Corporate Trainer  ✨
+# 👋 Full Stack Developer And Consultant  ✨
 
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
