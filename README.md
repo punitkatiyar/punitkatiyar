@@ -14,4 +14,4 @@
 
 <!-- <img src="https://punitkatiyar.github.io/profile_as_a%20developer.png" width="100%"> -->
 <!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7059503242111557632" height="633" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
-<img src="https://user-images.githubusercontent.com/1016365/34124854-48fafa06-e3e9-11e7-8c04-251055feebee.png" width="49%"><img src="https://www.techunitbook.com/view/image/techunitbook-logo.jpg" width="49%">
+<img src="https://user-images.githubusercontent.com/1016365/34124854-48fafa06-e3e9-11e7-8c04-251055feebee.png" width="50%"><img src="https://www.techunitbook.com/view/image/techunitbook-logo.jpg" width="50%">
