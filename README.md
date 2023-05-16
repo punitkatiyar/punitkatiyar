@@ -13,7 +13,7 @@
 - ⚡ Master Guide : https://github.com/techunitbook
 
 #html-master-guide #css-master-guide
-# wd [ rin , wtg , pqf ]
+# wd [ rin , wtg , qpf ]
 
 
 <img src="https://punitkatiyar.github.io/profile_as_a%20developer.png" width="100%">
