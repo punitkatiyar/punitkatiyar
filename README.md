@@ -15,7 +15,7 @@
 #html-master-guide #css-master-guide
 # wd [ rin , wtg , qpf ]
 
-# WE [ amb ,  ]
+# WE [ amb , sot  ]
 
 
 <!-- <img src="https://punitkatiyar.github.io/profile_as_a%20developer.png" width="100%"> -->
