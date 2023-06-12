@@ -13,7 +13,7 @@
 - ⚡ Master Guide : https://github.com/techunitbook
 
 #html-master-guide #css-master-guide
-# wd [ rin , wtg , qpf ]
+# wd [ uko ,rin , wtg , qpf ]
 
 # WE [ amb , sot  ]
 
