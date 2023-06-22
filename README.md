@@ -3,7 +3,7 @@
 
 # 👋 I Am A Full Stack Developer And Consultant  ✨
 
-<center><img src="techunitbook.gif" width="100%"> </center>
+<img src="techunitbook.gif" width="40%"> <img src="ducat_logo.png" width="40%">
 
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
