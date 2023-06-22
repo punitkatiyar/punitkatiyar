@@ -7,7 +7,9 @@
 
 <img src="techunitbook.gif" width="55%"> 
 
-## Responsibilities:
+## Responsibilities and skills of a full stack freelancer and consultant:
+
+
 
 
 
