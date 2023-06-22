@@ -1,7 +1,7 @@
 <!-- 
 <img src="https://www.ducatindia.com/images/logo.png"> -->
 
-# 👋 Full Stack Developer And Consultant  ✨
+# 👋 I Am A Full Stack Developer And Consultant  ✨
 
 <center><img src="techunitbook.gif" width="100%"> </center>
 
