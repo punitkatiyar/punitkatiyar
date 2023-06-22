@@ -5,6 +5,8 @@
 
 <img src="techunitbook.gif" width="55%"> 
 
+**A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.**
+
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
 - 👯 I’m looking to collaborate on youtube
