@@ -14,8 +14,10 @@
 
 **Collaborating with clients or project stakeholders to understand their requirements and translate them into technical specifications.**
 
-Designing and implementing user interfaces (UI) and user experiences (UX) that are visually appealing, intuitive, and responsive.
-Creating and managing databases, ensuring efficient data storage and retrieval.
+**Designing and implementing user interfaces (UI) and user experiences (UX) that are visually appealing, intuitive, and responsive.**
+
+**Creating and managing databases, ensuring efficient data storage and retrieval.**
+
 Building and integrating APIs (Application Programming Interfaces) for seamless communication between different components of a system.
 Implementing security measures to protect applications and user data.
 Writing clean, well-documented, and maintainable code.
