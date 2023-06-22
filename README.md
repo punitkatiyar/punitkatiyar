@@ -7,6 +7,8 @@
 
 <img src="techunitbook.gif" width="55%"> 
 
+## Responsibilities:
+
 
 
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
