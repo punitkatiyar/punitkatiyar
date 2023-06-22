@@ -3,6 +3,8 @@
 
 # 👋 Full Stack Developer And Consultant  ✨
 
+<img src="techunitbook.gif">
+
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
 - 👯 I’m looking to collaborate on youtube
@@ -12,7 +14,7 @@
 - 😄 Pronouns: https://punitkatiyar.github.io 
 - ⚡ Master Guide : https://github.com/techunitbook
 
-  <img src="techunitbook.gif">
+  
 
 #html-master-guide #css-master-guide
 
