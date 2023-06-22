@@ -2,9 +2,9 @@
 <img src="https://www.ducatindia.com/images/logo.png"> -->
 
 # 👋 Full Stack Developer And Consultant  ✨
-<center>
-<img src="techunitbook.gif" width="50%"> 
-</center>
+
+<center><img src="techunitbook.gif" width="50%"> </center>
+
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
 - 👯 I’m looking to collaborate on youtube
