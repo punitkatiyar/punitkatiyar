@@ -10,7 +10,6 @@
 
 ## Responsibilities and skills of a full stack freelancer and consultant:
 
-
 **Developing and maintaining websites, web applications, or software solutions.**
 
 **Collaborating with clients or project stakeholders to understand their requirements and translate them into technical specifications.**
@@ -19,12 +18,17 @@
 
 **Creating and managing databases, ensuring efficient data storage and retrieval.**
 
-Building and integrating APIs (Application Programming Interfaces) for seamless communication between different components of a system.
-Implementing security measures to protect applications and user data.
-Writing clean, well-documented, and maintainable code.
-Conducting thorough testing and debugging to identify and fix issues.
-Providing technical guidance, recommendations, and support to clients or project teams.
-Staying updated with the latest industry trends, technologies, and best practices.
+**Building and integrating APIs (Application Programming Interfaces) for seamless communication between different components of a system.**
+
+**Implementing security measures to protect applications and user data.**
+
+**Writing clean, well-documented, and maintainable code.**
+
+**Conducting thorough testing and debugging to identify and fix issues.**
+
+**Providing technical guidance, recommendations, and support to clients or project teams.**
+
+**Staying updated with the latest industry trends, technologies, and best practices.**
 
 
 <!--
