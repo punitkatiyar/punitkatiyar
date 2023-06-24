@@ -18,7 +18,7 @@
 
 **Creating and managing databases, ensuring efficient data storage and retrieval.**
 
-**Building and integrating APIs (Application Programming Interfaces) for seamless communication between different components of a system.**
+**Building and integrating APIs for seamless communication between different components of a system.**
 
 **Implementing security measures to protect applications and user data.**
 
