@@ -7,6 +7,8 @@
 
 <img src="techunitbook.gif" width="49%"><img src="coder.gif" width="49%" height="300px">
 
+<hr>
+
 ## Responsibilities and skills of a full stack freelancer and consultant:
 
 **Developing and maintaining websites, web applications, or software solutions.**
