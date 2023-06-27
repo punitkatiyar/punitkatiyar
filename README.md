@@ -1,6 +1,3 @@
-
-<img src="https://www.ducatindia.com/images/logo.png"> 
-
 # 🦝 A Full Stack Developer And Consultant  ✨
 
 #### A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.
@@ -13,6 +10,7 @@
 
 ## Responsibilities and skills of a full stack freelancer and consultant:
 
+<!--
 **Developing and maintaining websites, web applications, or software solutions.**
 
 **Collaborating with clients or project stakeholders to understand their requirements and translate them into technical specifications.**
@@ -32,7 +30,7 @@
 **Providing technical guidance, recommendations, and support to clients or project teams.**
 
 **Staying updated with the latest industry trends, technologies, and best practices.**
-
+-->
 
 <!--
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
