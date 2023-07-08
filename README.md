@@ -1,10 +1,15 @@
 # 🦝 A Full Stack Developer And Consultant  ✨
 
 🔭 Frontend : React/Next.js, Vue/Nuxt.js, Three.js
+
 🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
+
 🌱 Libraries : Bootstrap, TailwindCSS, Material UI, AntD
+
 👨‍💻 Backend : PHP / Laravel, CI, Node.js / Express, Python / Django
+
 💬 Database : MySQL, MongoDB, PostgreSQL, SQLite
+
 📫 Languages : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity
 
 
