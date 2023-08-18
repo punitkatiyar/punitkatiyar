@@ -59,11 +59,12 @@
 
   
 
-#html-master-guide #css-master-guide
+<!--#html-master-guide #css-master-guide
 
 # wd [ uko ,rin , wtg , qpf ]
 
 # WE [ amb , sot  ]
+-->
 
 https://designer.microsoft.com/
 
