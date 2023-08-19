@@ -18,7 +18,7 @@
 
 
 
-<!-- <img src="techunitbook.gif" width="49%"><img src="coder.gif" width="49%" height="300px">-->
+<img src="techunitbook.gif" width="49%"><img src="coder.gif" width="49%" height="300px">
 
 
 
