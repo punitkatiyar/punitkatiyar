@@ -26,8 +26,7 @@
 
 
 
-## Responsibilities and skills of a full stack freelancer and consultant:
--->
+## Responsibilities and skills of a full stack freelancer and consultant
 
 
 
