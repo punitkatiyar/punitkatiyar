@@ -15,8 +15,10 @@
 
 📫 Languages : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity
 
-
+<!--
 <img src="techunitbook.gif" width="49%"><img src="coder.gif" width="49%" height="300px">
+-->
+
 ### A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.
 
 
