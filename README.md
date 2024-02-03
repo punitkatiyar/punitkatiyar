@@ -26,11 +26,12 @@
 
 
 
-## Responsibilities and skills of a full stack freelancer and consultant
+
 
 
 
 <!--
+## Responsibilities and skills of a full stack freelancer and consultant
 **Developing and maintaining websites, web applications, or software solutions.**
 
 **Collaborating with clients or project stakeholders to understand their requirements and translate them into technical specifications.**
