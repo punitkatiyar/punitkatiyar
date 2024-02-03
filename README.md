@@ -1,7 +1,4 @@
 # 🦝 A Full Stack Developer And Consultant  ✨
-
-<img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="150px">
-
 <!--
 
 
@@ -24,7 +21,7 @@
 ### A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.
 
 <hr>
-
+<img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="150px">
 
 
 
