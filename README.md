@@ -53,7 +53,7 @@
 
 **Staying updated with the latest industry trends, technologies, and best practices.**
 -->
-
+<hr>
 
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
