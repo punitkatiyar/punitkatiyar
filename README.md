@@ -53,7 +53,7 @@
 
 **Staying updated with the latest industry trends, technologies, and best practices.**
 -->
-<hr>
+<--
 
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
@@ -64,7 +64,7 @@
 - 😄 Pronouns: https://punitkatiyar.github.io
 -  ⚡ Master Guide : https://github.com/techunitbook 
 
-
+-->
   
 
 <!--#html-master-guide #css-master-guide
