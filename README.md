@@ -31,7 +31,7 @@
 
 
 
-<!--
+
 ## Responsibilities and skills of a full stack freelancer and consultant
 **Developing and maintaining websites, web applications, or software solutions.**
 
