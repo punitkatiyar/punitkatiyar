@@ -14,7 +14,7 @@
 
 <hr>
 
-<img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="150px">
+<img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="300px">
 
 <hr>
 
