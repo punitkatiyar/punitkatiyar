@@ -52,8 +52,11 @@
 **Providing technical guidance, recommendations, and support to clients or project teams.**
 
 **Staying updated with the latest industry trends, technologies, and best practices.**
+
 -->
+
 <--
+
 
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
