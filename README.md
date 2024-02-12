@@ -12,7 +12,11 @@
 
 📫 Languages : English , Hindi
 
+<hr>
+
 <img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="150px">
+
+<hr>
 
 <!--
 <img src="techunitbook.gif" width="49%"><img src="coder.gif" width="49%" height="300px">
