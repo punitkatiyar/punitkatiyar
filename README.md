@@ -1,14 +1,12 @@
-# 🦝 A Full Stack Developer And Consultant  ✨
-<!--
+# 🦝 Full Stack Developer And Tech consultant  ✨
 
-
-🔭 Frontend : React/Next.js, Vue/Nuxt.js, Three.js
+🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular
 
 🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
 
 🌱 Libraries : Bootstrap, TailwindCSS, Material UI, AntD
 
-👨‍💻 Backend : PHP / Laravel, CI, Node.js / Express, Python / Django
+👨‍💻 Backend : PHP / Laravel, codeIgniter, Node.js & Express 
 
 💬 Database : MySQL, MongoDB, PostgreSQL, SQLite
 
@@ -16,7 +14,7 @@
 
 <!--
 <img src="techunitbook.gif" width="49%"><img src="coder.gif" width="49%" height="300px">
--->
+
 
 ### A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.
 
