@@ -10,7 +10,7 @@
 
 💬 Database : MySQL, MongoDB, PostgreSQL, SQLite
 
-📫 Languages : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity
+📫 Languages : English , Hindi
 
 <!--
 <img src="techunitbook.gif" width="49%"><img src="coder.gif" width="49%" height="300px">
