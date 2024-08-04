@@ -1,4 +1,4 @@
-# Full Stack Developer And Tech consultant  ✨
+# Full Stack Developer And Tech consultant
 
 🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular
 
