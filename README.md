@@ -1,14 +1,16 @@
 # Full Stack Developer And Tech consultant
 
-The architect with an overlap into development and analysis. 
+**The architect with an overlap into development and analysis. Almost everything is possible, it's just a matter of**
 
-Almost everything is possible, it's just a matter of
+<hr>
 
 ### ⌚ Time 
 
 ### 💰 Resources 
 
 ### ⭐ Quality 
+
+<hr>
 
 🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular
 
