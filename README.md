@@ -4,11 +4,11 @@ The architect with an overlap into development and analysis.
 
 Almost everything is possible, it's just a matter of
 
-> time⌚
+### ⌚ Time 
 
-> resources💰
+### 💰 Resources 
 
-> quality⭐
+### ⭐ Quality 
 
 🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular
 
