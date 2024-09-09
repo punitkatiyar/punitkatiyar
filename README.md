@@ -12,15 +12,13 @@
 
 <hr>
 
-🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular
+🎪 Frontend : HTML , CSS , JavaScript , ECMA Script , TypeScript , JQuery , React , Angular
 
 🌱 Libraries : Bootstrap, TailwindCSS, Material UI
 
-👨‍💻 Backend : PHP / Laravel, codeIgniter, Node.js & Express 
+👨‍💻 Backend : PHP, wordpress, Laravel, codeIgniter, magento , Node , Express 
 
 💬 Database : MySQL, MongoDB, SQLite
-
-📫 Languages : English , Hindi
 
 <hr>
 
