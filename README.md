@@ -1,5 +1,7 @@
 # Full Stack Developer And Tech consultant
 
+| UI    | Backend |
+
 **The architect with an overlap into development and analysis. Almost everything is possible, it's just a matter of**
 
 <hr>
