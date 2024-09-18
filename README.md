@@ -22,7 +22,7 @@
 
 <hr>
 
-<img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="300px">
+<a href="https://www.ducatindia.com/"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="300px"></a>
 
 <hr>
 
