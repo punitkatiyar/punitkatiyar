@@ -12,13 +12,13 @@
 
 <hr>
 
-🎪 Frontend : HTML , CSS , JavaScript , ECMA Script , TypeScript , JQuery , React , Angular
+🎪 **Frontend :** HTML , CSS , JavaScript , Es6 , TypeScript , JQuery , React , Angular...
 
-🌱 Libraries : Bootstrap, TailwindCSS, Material UI
+🌱 **Libraries :** Bootstrap, TailwindCSS, Material UI, FontFonts...
 
-👨‍💻 Backend : PHP, wordpress, Laravel, codeIgniter, magento , Node , Express 
+👨‍💻 **Backend :** PHP, wordpress, Laravel, CodeIgniter, Magento , Node , ExpressJS ...
 
-💬 Database : MySQL, MongoDB, SQLite
+💬 **Database :** MySQL, MongoDB, SQLite ...
 
 <hr>
 
