@@ -8,7 +8,7 @@
 
 <hr>
 
-<img src="techunitbook.gif" height="300px" width="49%"><img src="coder.gif" width="49%" height="300px">
+<a href="https://www.ducatindia.com/" target="_blank"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="50%" height="300px" ></a><img src="techunitbook.gif"  width="49%">
 
 <hr>
 
@@ -21,7 +21,7 @@
 ### 💬 **Database :** MySQL, MongoDB, SQLite ...
 
 
-<a href="https://www.ducatindia.com/" target="_blank"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="400px"></a>
+
 
 
 
