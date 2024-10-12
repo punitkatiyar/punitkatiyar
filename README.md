@@ -5,9 +5,7 @@
 <hr>
 
 ### ⌚ Time 
-
 ### 💰 Resources 
-
 ### ⭐ Quality 
 
 <hr>
