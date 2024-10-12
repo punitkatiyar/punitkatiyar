@@ -8,15 +8,15 @@
 
 <hr>
 
-<a href="https://www.ducatindia.com/" target="_blank"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="50%" height="200px" ></a><img src="techunitbook.gif"  width="30%">
+<a href="https://www.ducatindia.com/" target="_blank"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="50%" height="200px" ></a><img src="techunitbook.gif"  width="40%">
 
 <hr>
 
-### 🎪 **Frontend :** HTML , CSS , JavaScript , Es6 , TypeScript , JQuery , React , Angular...
+### 🎪 **Frontend :** HTML , CSS , JavaScript , ES6 , TypeScript , JQuery , React
 
 ### 🌱 **Libraries :** Bootstrap, TailwindCSS, Material UI, FontFonts...
 
-### 👨‍💻 **Backend :** PHP, wordpress, Laravel, CodeIgniter, Magento , Node , ExpressJS ...
+### 👨‍💻 **Backend :** PHP, Wordpress, Laravel, CodeIgniter, Magento , Node , ExpressJS ...
 
 ### 💬 **Database :** MySQL, MongoDB, SQLite ...
 
