@@ -16,11 +16,9 @@
 
 💬 **Database :** MySQL, MongoDB, SQLite ...
 
-<hr>
 
-<a href="https://www.ducatindia.com/" target="_blank"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="300px"></a>
+<a href="https://www.ducatindia.com/" target="_blank"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="400px"></a>
 
-<hr>
 
 <!--
 <img src="techunitbook.gif" width="49%"><img src="coder.gif" width="49%" height="300px">
