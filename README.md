@@ -20,6 +20,8 @@
 
 ### 💬 **Database :** MySQL, MongoDB, SQLite ...
 
+![Punit's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitkatiyar&show_icons=true&theme=radical)
+
 
 
 
