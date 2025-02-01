@@ -8,7 +8,7 @@
 
 <hr>
 
-<a href="https://www.ducatindia.com/" target="_blank"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="50%" height="200px" ></a><img src="techunitbook.gif"  width="40%" height="300px">
+<a href="https://www.ducatindia.com/" target="_blank"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="50%" height="200px" ></a><img src="techunitbook.gif"  width="40%" height="250px">
 
 <hr>
 
