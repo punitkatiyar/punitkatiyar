@@ -1,4 +1,4 @@
-# Full Stack Developer And Tech Consultant
+# Full Stack Tech Consultant 
 
 **The architect with an overlap into development and analysis. Almost everything is possible, it's just a matter of**
 
