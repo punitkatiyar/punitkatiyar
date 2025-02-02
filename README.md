@@ -1,4 +1,4 @@
-# Full Stack Tech Consultant | Software Architect | Digital Transformation Expert
+# Full Stack Tech Consultant | Digital Transformation Expert
 
 Driving innovation with scalable full-stack solutions and strategic technology consulting.
 
