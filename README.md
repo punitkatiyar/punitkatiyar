@@ -10,9 +10,9 @@
 ## ⌚ Time 💰 Resources  ⭐ Quality 
 
 <hr>
-
+<center>
 <a href="https://www.ducatindia.com/"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="45%" height="200px" ></a><img src="techunitbook.gif"  width="40%" height="200px">
-
+</center>
 <hr>
 
 ### 🎪 **Frontend :** HTML , CSS , JavaScript , ES6 , TypeScript , JQuery , React
