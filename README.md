@@ -10,7 +10,8 @@
 ## ⌚ Time 💰 Resources  ⭐ Quality 
 
 <hr>
-<a href="https://www.ducatindia.com/"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="45%" height="200px" ></a><img src="techunitbook.gif"  width="42%" height="200px">
+
+<a href="https://www.ducatindia.com/"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="45%" height="200px" ></a><img src="techunitbook.gif" width="40%" height="200px">
 
 <hr>
 
