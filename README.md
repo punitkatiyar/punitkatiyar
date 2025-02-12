@@ -15,7 +15,7 @@ Driving innovation with scalable full-stack solutions and strategic technology c
 
 <hr>
 
-### 🎪 **Frontend :** HTML , CSS , JavaScript , ES6 , TypeScript , JQuery , React
+🎪 **Frontend :** HTML , CSS , JavaScript , ES6 , TypeScript , JQuery , React
 
 ### 🌱 **Libraries :** Bootstrap, TailwindCSS, Material UI, FontFonts...
 
