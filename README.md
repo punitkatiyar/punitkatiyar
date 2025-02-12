@@ -7,7 +7,7 @@ Driving innovation with scalable full-stack solutions and strategic technology c
 
 <hr>
 
-## ⌚ Time 💰 Resources  ⭐ Quality 
+ **⌚ Time 💰 Resources  ⭐ Quality**
 
 <hr>
 
