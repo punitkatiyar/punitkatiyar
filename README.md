@@ -9,6 +9,9 @@ Driving innovation with scalable full-stack solutions and strategic technology c
 
  **⌚ Time 💰 Resources  ⭐ Quality**
 
+ ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=punitkatiyar)
+
+
 <hr>
 
 <a href="https://www.ducatindia.com/"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/ducat_logo.png" width="45%" height="200px" ></a><img src="techunitbook.gif" width="40%" height="200px">
