@@ -14,7 +14,7 @@ Driving innovation with scalable full-stack solutions and strategic technology c
 
 <hr>
 
-<a href="https://www.ducatindia.com/"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/MERN-Stack-Development.png" width="35%" height="200px" ></a><img src="techunitbook.gif" width="40%" height="200px">
+<a href="https://www.ducatindia.com/"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/MERN-Stack-Development.png" width="25%" height="200px" ></a><img src="techunitbook.gif" width="40%" height="200px">
 
 <hr>
 
