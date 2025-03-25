@@ -26,8 +26,9 @@ Driving innovation with scalable full-stack solutions and strategic technology c
 
 ### 💬 **Database :** MySQL, MongoDB, SQLite ...
 
-![Punit's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitkatiyar&show_icons=true&theme=radical)
+<hr>
 
+![Punit's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitkatiyar&show_icons=true&theme=radical)
 ![Punit's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=punitkatiyar&layout=compact&theme=radical)
 
 <!--
