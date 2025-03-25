@@ -18,11 +18,11 @@ Driving innovation with scalable full-stack solutions and strategic technology c
 
 <hr>
 
-🎪 **Frontend :** HTML , CSS , JavaScript , ES6 , TypeScript , JQuery , React
+### 🎪 **Frontend :** HTML , CSS , JavaScript , EcmsScript , TypeScript 
 
-### 🌱 **Libraries :** Bootstrap, TailwindCSS, Material UI, FontFonts...
+### 🌱 **Libraries :** Bootstrap, TailwindCSS, , JQuery , React ...
 
-### 👨‍💻 **Backend :** PHP, Wordpress, Laravel, CodeIgniter, Magento , Node , ExpressJS ...
+### 👨‍💻 **Backend :** Node, ExpressJS, PHP, Wordpress, Laravel, CodeIgniter, Magento ... 
 
 ### 💬 **Database :** MySQL, MongoDB, SQLite ...
 
@@ -30,31 +30,10 @@ Driving innovation with scalable full-stack solutions and strategic technology c
 
 ![Punit's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=punitkatiyar&layout=compact&theme=radical)
 
-
-
-
-
-
-
-
-
-
-
 <!--
 ### A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.
 
 <hr>
-
-
-
-
-
-
-
-
-
-
-
 
 ## Responsibilities and skills of a full stack freelancer and consultant
 **Developing and maintaining websites, web applications, or software solutions.**
