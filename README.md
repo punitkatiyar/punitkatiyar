@@ -1,7 +1,6 @@
 ## Full Stack Tech Consultant | Digital Transformation Expert
 
-Driving innovation with scalable full-stack solutions and strategic technology consulting.
-
+**Driving innovation with scalable full-stack solutions and strategic technology consulting.**
 
 **The architect with an overlap into development and analysis. Almost everything is possible, it's just a matter of**
 
@@ -10,7 +9,7 @@ Driving innovation with scalable full-stack solutions and strategic technology c
  **⌚ Time 💰 Resources  ⭐ Quality**
  
 <hr>
-
+ 
  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=punitkatiyar)
 
 <a href="https://www.punitkatiyar.com/"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/MERN-Stack-Development.png" width="40%" height="250px" ></a><img src="techunitbook.gif" width="40%" height="250px">
