@@ -1,4 +1,4 @@
-/## Full Stack Tech Consultant | Digital Transformation Expert
+## Full Stack Tech Consultant | Digital Transformation Expert
 
 **Driving innovation with scalable full-stack solutions and strategic technology consulting.**
 
@@ -10,7 +10,7 @@
  
 <hr>
  
- ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=punitkatiyar)
+ ![Profile Views](https://visitor-badge.laobi.icu/badge?pageid=punitkatiyar)
 
 <a href="https://www.punitkatiyar.com/"><img src="https://github.com/punitkatiyar/punitkatiyar/blob/main/MERN-Stack-Development.png" width="40%" height="250px" ></a><img src="techunitbook.gif" width="40%" height="250px">
 
