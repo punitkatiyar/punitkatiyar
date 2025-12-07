@@ -12,7 +12,7 @@
 
 <hr>
 
- ** Almost everything is possible, it's just a matter of ⌚ Time 💰 Resources  ⭐ Quality**
+ **Almost everything is possible, it's just a matter of ⌚ Time 💰 Resources  ⭐ Quality**
  
 <hr>
  
