@@ -1,4 +1,4 @@
-## Full Stack Tech Consultant 
+## Full Stack Consultant with 10+ Yers  
 
 **Driving innovation with scalable full-stack solutions and strategic technology consulting.**
 **The architect with an overlap into development and analysis.**
@@ -32,11 +32,6 @@
 
 <hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=punitkatiyar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punitkatiyar&layout=compact&theme=tokyonight)
-
-
-
 <!--
 ### A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.
 
@@ -62,6 +57,7 @@
 **Providing technical guidance, recommendations, and support to clients or project teams.**
 
 **Staying updated with the latest industry trends, technologies, and best practices.**
+-->
 
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
@@ -71,10 +67,6 @@
 - 📫 How to reach me: https://www.techunitbook.com
 - 😄 Pronouns: https://punitkatiyar.github.io
 -  ⚡ Master Guide : https://github.com/techunitbook 
-
-
--->
-
 
 
 
