@@ -1,7 +1,7 @@
 ## Full Stack Tech Consultant 
 
 **Driving innovation with scalable full-stack solutions and strategic technology consulting.**
-**The architect with an overlap into development and analysis. Almost everything is possible, it's just a matter of**
+**The architect with an overlap into development and analysis.**
 
 ### 🚀 What I Offer
 
@@ -12,7 +12,7 @@
 
 <hr>
 
- **⌚ Time 💰 Resources  ⭐ Quality**
+ ** Almost everything is possible, it's just a matter of ⌚ Time 💰 Resources  ⭐ Quality**
  
 <hr>
  
