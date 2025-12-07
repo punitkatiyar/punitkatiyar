@@ -4,6 +4,13 @@
 
 **The architect with an overlap into development and analysis. Almost everything is possible, it's just a matter of**
 
+### 🚀 What I Offer
+
+✔ Architect & deliver full-stack solutions  
+✔ Performance tuning & code modernization  
+✔ Cloud migration, CI/CD, automation  
+✔ Technical leadership & mentorship  
+
 <hr>
 
  **⌚ Time 💰 Resources  ⭐ Quality**
@@ -26,8 +33,7 @@
 
 <hr>
 
-![Punit's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitkatiyar&show_icons=true&theme=radical)
-![Punit's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=punitkatiyar&layout=compact&theme=radical)
+
 
 <!--
 ### A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.
