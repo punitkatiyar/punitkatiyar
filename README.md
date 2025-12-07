@@ -1,4 +1,4 @@
-## Full Stack Consultant with 10+ Yers  
+## Full Stack Consultant | 10+ years turning complex ideas into clean code
 
 **Driving innovation with scalable full-stack solutions and strategic technology consulting.**
 **The architect with an overlap into development and analysis.**
