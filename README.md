@@ -16,9 +16,11 @@
  
 <hr>
  
- ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=punitkatiyar)
 
-<a href="https://www.punitkatiyar.com/"><img src="techunitbook.gif" width="40%" height="250px">
+
+<a href="https://www.punitkatiyar.com/"><img src="techunitbook.gif" width="40%" height="250px"></a>
+ 
+ ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=punitkatiyar)
 
 <hr>
 
