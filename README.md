@@ -64,7 +64,7 @@
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with ????
 - 💬 i am a fullstack developer with php and node
-- 📫 How to reach me: https://www.punitkayiyar.com
+- 📫 How to reach me: https://www.punitkatiyar.com
 - 😄 Pronouns: https://punitkatiyar.github.io
 - ⚡ Master Guide : https://techunitbook.com 
 
