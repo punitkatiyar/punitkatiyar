@@ -65,7 +65,7 @@
 **Staying updated with the latest industry trends, technologies, and best practices.**
 -->
 
-- 🔭 I’m currently working on Ducat India Pvt. Ltd.
+- 🔭 I’m currently working in Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with ????
