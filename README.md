@@ -1,4 +1,4 @@
-# Full Stack Consultant 
+# Full Stack Developer 
 **10+ Years Turning Complex Ideas Into Clean Code**
 
 <hr>
