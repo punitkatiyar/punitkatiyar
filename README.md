@@ -99,6 +99,15 @@ https://designer.microsoft.com/
 <!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7059503242111557632" height="633" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
 <!-- <img src="https://user-images.githubusercontent.com/1016365/34124854-48fafa06-e3e9-11e7-8c04-251055feebee.png"> -->
 
+```mermaid
+stateDiagram-v2
 
+[*] --> Idle
+Idle --> Loading
+Loading --> Success
+Loading --> Error
+Success --> [*]
+Error --> [*]
+```
 
 
