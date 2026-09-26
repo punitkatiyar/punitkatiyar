@@ -66,10 +66,10 @@
 -->
 
 - 🔭 I’m currently working in Ducat India Pvt. Ltd.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning AI.
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with ????
-- 💬 i am a fullstack developer with php and node
+- 💬 i am a fullstack developer with python and node
 - 📫 How to reach me: https://www.punitstack.com/
 - 😄 Pronouns: https://punitkatiyar.github.io
 - ⚡ Master Guide : https://techunitbook.com 
@@ -82,9 +82,7 @@
 
 <!--#html-master-guide #css-master-guide
 
-# wd [ uko ,rin , wtg , qpf ]
 
-# WE [ amb , sot  ]
 https://punitkatiyar.github.io/
 
 https://designer.microsoft.com/
@@ -99,15 +97,5 @@ https://designer.microsoft.com/
 <!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7059503242111557632" height="633" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
 <!-- <img src="https://user-images.githubusercontent.com/1016365/34124854-48fafa06-e3e9-11e7-8c04-251055feebee.png"> -->
 
-```mermaid
-stateDiagram-v2
-
-[*] --> Idle
-Idle --> Loading
-Loading --> Success
-Loading --> Error
-Success --> [*]
-Error --> [*]
-```
 
 
