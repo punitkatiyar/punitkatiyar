@@ -1,11 +1,13 @@
 # Full Stack Developer 
 **10+ Years Turning Complex Ideas Into Clean Code**
+**Driving innovation with scalable full-stack solutions and strategic technology consulting.**
+**The architect with an overlap into development and analysis.**
 
 <hr>
 
-
-**Driving innovation with scalable full-stack solutions and strategic technology consulting.**
-**The architect with an overlap into development and analysis.**
+ **Almost everything is possible, it's just a matter of ⌚ Time 💰 Resources  ⭐ Quality**
+ 
+<hr>
 
 ## 🚀 What I Offer
 
@@ -14,11 +16,7 @@
 ✔ Cloud migration, CI/CD, automation  
 ✔ Technical leadership & mentorship  
 
-<hr>
 
- **Almost everything is possible, it's just a matter of ⌚ Time 💰 Resources  ⭐ Quality**
- 
-<hr>
  
 
 
@@ -30,11 +28,11 @@
 
 ### 🎪 **Frontend :** HTML , CSS , JavaScript , EcmsScript , TypeScript 
 
-### 🌱 **Libraries :** Bootstrap, TailwindCSS, , JQuery , React ...
+### 🌱 **Libraries :** Bootstrap, TailwindCSS, React , Next-JS
 
-### 👨‍💻 **Backend :** Node, ExpressJS, PHP, Wordpress, Laravel, CodeIgniter, Magento ... 
+### 👨‍💻 **Backend :** Node, ExpressJS, Python , Django  
 
-### 💬 **Database :** MySQL, MongoDB, SQLite ...
+### 💬 **Database :** MySQL, MongoDB, SQLite
 
 <hr>
 
