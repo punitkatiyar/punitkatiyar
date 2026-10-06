@@ -20,7 +20,7 @@
  
 
 
-<a href="https://www.punitkatiyar.com/"><img src="techunitbook.gif" width="40%" height="250px"></a>
+
  
  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=punitkatiyar)
 
@@ -35,6 +35,8 @@
 ### 💬 **Database :** MySQL, MongoDB, SQLite
 
 <hr>
+
+<a href="https://www.techunitbook.com/"><img src="techunitbook.gif" width="40%" height="250px"></a>
 
 <!--
 ### A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.
