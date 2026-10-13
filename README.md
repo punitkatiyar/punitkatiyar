@@ -55,7 +55,7 @@
 **Providing technical guidance, recommendations, and support to clients or project teams.**
 
 **Staying updated with the latest industry trends, technologies, and best practices.**
--->
+
 
 - 🔭 I’m currently working in Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning AI.
@@ -66,7 +66,7 @@
 - 😄 Pronouns: https://punitkatiyar.github.io
 - ⚡ Master Guide : https://techunitbook.com 
 
-
+-->
 
 
 
