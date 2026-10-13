@@ -24,15 +24,7 @@
  
  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=punitkatiyar)
 
-<hr>
 
-### 🎪 **Frontend :** HTML , CSS , JavaScript , EcmsScript , TypeScript 
-
-### 🌱 **Libraries :** Bootstrap, TailwindCSS, React , Next-JS
-
-### 👨‍💻 **Backend :** Node, ExpressJS, Python , Django  
-
-### 💬 **Database :** MySQL, MongoDB, SQLite
 
 <hr>
 
